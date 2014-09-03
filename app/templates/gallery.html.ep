@@ -1,0 +1,11 @@
+% layout 'main';
+
+<link  href="http://fotorama.s3.amazonaws.com/4.6.2/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
+<script src="http://fotorama.s3.amazonaws.com/4.6.2/fotorama.js"></script> <!-- 16 KB -->
+
+<div class="col-lg-7 fotorama" data-nav="thumbs">
+   <a href="images/lighthouse.jpg"></a>
+   <a href="images/cove.jpg"></a>
+</div> <!-- fotorama --> <!-- /.col-lg-7 -->
+
+%= include 'sidebar'
