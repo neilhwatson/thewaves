@@ -11,8 +11,8 @@ sub startup
 ## Routes
    my $r = $self->routes;
 
-   $r->any( '/' => 'home');
-   $r->any( '/gallery' => 'gallery');
+   $r->any( '/' )->to( template => 'home', images => $config->{carousel} );
+   $r->any( '/gallery' )->to( template => 'gallery', images => $config->{gallery} );
 }
 
 1;

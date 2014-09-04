@@ -1,38 +1,42 @@
 % layout 'main';
 
-%= include 'carousel'
+<div class="row">
+   %= include 'carousel'
+</div>
 
-<div class="col-lg-7">
+<div class="row">
+   <div class="col-lg-7">
 
-   <h2>Brighton Beach House</h2>
-   <ul>
-      <li>Lake Ontario waterfront</li>
-      <li>2 bedroom, 2 bathroom, single story, sleeps 6</li>
-      <li>2 queen beds</li>
-      <li>2 porches</li>
-      <li>Southern view of Lake Ontario and <a href="http://www.ontarioparks.com/park/presquile">Presqu'ile provincial park</a></li>
-      <li>Barbecue</li>
-      <li>Full kitchen including dishwasher!</li>
-      <li>Parking for 3 cars</li>
-      <li>Cable TV</li>
-      <li>Cable high speed Internet, with WiFi</li>
-      <li>Pets welcome</li>
-      <li>No smoking</li>
-   </ul>
+      <h2>Brighton Beach House</h2>
+      <ul>
+         <li>Lake Ontario waterfront</li>
+         <li>2 bedroom, 2 bathroom, single story, sleeps 6</li>
+         <li>2 queen beds</li>
+         <li>2 porches</li>
+         <li>Southern view of Lake Ontario and <a href="http://www.ontarioparks.com/park/presquile">Presqu'ile provincial park</a></li>
+         <li>Barbecue</li>
+         <li>Full kitchen including dishwasher!</li>
+         <li>Parking for 3 cars</li>
+         <li>Cable TV</li>
+         <li>Cable high speed Internet, with WiFi</li>
+         <li>Pets welcome</li>
+         <li>No smoking</li>
+      </ul>
 
-   <h3>Local Attractions</h3>
-   <ul>
-      <li>Located on the north shore of Lake Ontario, in the quiet town of Brighton Ontario, halfway between <a href="http://www.toronto.ca/">Toronto</a> and historic <a href="https://www.cityofkingston.ca/">Kingston</a> Ontario.</li>
-      <li>xkm to <a href="http://www.ontarioparks.com/park/presquile">Presqu'ile provincial park</a>, a bird watcher's <a href="http://friendsofpresquile.on.ca/birdingreportsp29.php">paradise</a>.</li>
-      <li>xkm to world famous <a href="http://www.ontarioparks.com/park/sandbanks">Sandbanks provincial park</a>.</li>
-      <li>xkm to <a href="http://www.ontarioparks.com/park/northbeach">North Beach provincial park</a>.</li>
-      <li>xkm to the premier <a href="http://www.blackbearridge.ca/">Black bear ridge</a> golf club.</li>
-      <li>xkm to <a href="http://www.barcovangolf.com/">Barkovan</a> golf club.</li>
-      <li>xkm to <a href="http://timberridgegolf.net/">Timber ridge</a> golf club.</li>
-      <li>xkm to the <a href="http://www.airforcemuseum.ca/">National air force museum of Canada</a>.</li>
-   </ul>
+      <h3>Local Attractions</h3>
+      <ul>
+         <li>Located on the north shore of Lake Ontario, in the quiet town of Brighton Ontario, halfway between <a href="http://www.toronto.ca/">Toronto</a> and historic <a href="https://www.cityofkingston.ca/">Kingston</a> Ontario.</li>
+         <li>xkm to <a href="http://www.ontarioparks.com/park/presquile">Presqu'ile provincial park</a>, a bird watcher's <a href="http://friendsofpresquile.on.ca/birdingreportsp29.php">paradise</a>.</li>
+         <li>xkm to world famous <a href="http://www.ontarioparks.com/park/sandbanks">Sandbanks provincial park</a>.</li>
+         <li>xkm to <a href="http://www.ontarioparks.com/park/northbeach">North Beach provincial park</a>.</li>
+         <li>xkm to the premier <a href="http://www.blackbearridge.ca/">Black bear ridge</a> golf club.</li>
+         <li>xkm to <a href="http://www.barcovangolf.com/">Barkovan</a> golf club.</li>
+         <li>xkm to <a href="http://timberridgegolf.net/">Timber ridge</a> golf club.</li>
+         <li>xkm to the <a href="http://www.airforcemuseum.ca/">National air force museum of Canada</a>.</li>
+      </ul>
 
-</div><!-- /.col-lg-7 -->
+   </div><!-- /.col-lg-7 -->
 
-%= include 'sidebar'
+   %= include 'sidebar'
 
+</div> <!-- row -->

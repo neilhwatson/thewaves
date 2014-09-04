@@ -1,24 +1,48 @@
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 <!-- Indicators -->
+
    <ol class="carousel-indicators">
-      <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+% my $count = 0;
+% for my $i ( @{ $images } )
+% {
+%     if ( $count == 0 )
+%     {
+      <li data-target="#carousel-example-generic" data-slide-to="<%= $count %>" class="active"></li>
+%     }
+%     else
+%     {
+      <li data-target="#carousel-example-generic" data-slide-to="<%= $count %>"></li>
+%     }
+%     $count++;
+% }
    </ol>
+
 <!-- Wrapper for slides -->
    <div class="carousel-inner">
+
+% my $first = 0;
+% for my $i ( @{ $images } )
+% {
+%     $first++;
+%     if ( $first == 1 )
+%     {
+
       <div class="item active">
-         <img src="images/lighthouse.jpg" alt="image of lighthouse">
-         <div class="carousel-caption">
-            <p>Lighthouse view</p>
-         </div>
-      </div>
+%     }
+%     else
+%     {
+
       <div class="item">
-         <img src="images/cove.jpg" alt="image of cove">
+%     }
+         <img src="<%= $i->{src} %>" alt="<%= $i->{caption} %>">
          <div class="carousel-caption">
-            <p>Shoreline view</p>
-         </div>
-      </div>
-   </div>
+            <p><%= $i->{caption} %></p>
+         </div> <!-- caption -->
+      </div> <!-- item -->
+% }
+
+   </div> <!-- carousel-inner -->
+
 <!-- Controls -->
    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>

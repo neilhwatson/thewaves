@@ -45,7 +45,6 @@
 
 <body>
 
-
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
    <div class="container">
          <div class="navbar-header">
@@ -73,23 +72,23 @@
 <div class="container">
 
    <div class="row">
+      <h2><%= title %></h2>
+   </div><!-- /.row -->
 
 <!-- main content -->
-      <h2><%= title %></h2>
       <%= content %>
-
-   </div><!-- /.row -->
 
 <!-- footer ================================================ -->
 
-<h4></h4>
-<div class="hrline"> </div>
-   <footer>
-       <p class="pull-right"><a href="#">Back to top</a></p>
-       <p>&copy; 2014 Lisamarie Wilson</p>
-   </footer>
-
-</div><!-- /.container -->
+<div class="row">
+   <h4></h4>
+   <div class="hrline"> </div>
+      <footer>
+          <p class="pull-right"><a href="#">Back to top</a></p>
+          <p>&copy; 2014 Lisamarie Wilson</p>
+      </footer>
+   </div><!-- row -->
+</div><!-- container -->
 
 </body>
 </html>
