@@ -54,7 +54,8 @@
                <span class="icon-bar"></span>
                <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">Brighton Beach House</a>
+            <!--<a class="navbar-brand" href="/">Brighton Beach House</a>-->
+            <a href="/"><img src="/images/bb-logo.png" height="60" alt="home"></a>
          </div> <!-- navbar-header -->
          <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
