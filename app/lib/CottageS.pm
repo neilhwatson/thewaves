@@ -11,8 +11,21 @@ sub startup
 ## Routes
    my $r = $self->routes;
 
-   $r->any( '/' )->to( template => 'home', images => $config->{carousel} );
-   $r->any( '/gallery' )->to( template => 'gallery', images => $config->{gallery} );
+   $r->any( '/' )->to(
+      template         => 'home',
+      images           => $config->{carousel},
+      meta_description => "vacation cottage rental on the shore of lake ontario",
+      meta_keywords    => "vacation, cottage, rental, beach, lake shore, ontario",
+      title            => "Brighton beach house vacation rental"
+      );
+
+   $r->any( '/gallery' )->to(
+      template         => 'gallery',
+      images           => $config->{gallery},
+      meta_description => "brighton beach house gallery",
+      meta_keywords    => "vacation, cottage, rental, gallery",
+      title            => "Gallery"
+   );
 }
 
 1;
