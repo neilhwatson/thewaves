@@ -1,0 +1,12 @@
+% layout 'main';
+
+<div class="row">
+   <div class="col-lg-7">
+
+      %= include 'amenities-list'
+
+   </div><!-- /.col-lg-7 -->
+
+   %= include 'sidebar'
+
+</div> <!-- row -->

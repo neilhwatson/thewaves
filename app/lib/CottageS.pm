@@ -16,8 +16,22 @@ sub startup
       images           => $config->{carousel},
       meta_description => "vacation cottage rental on the shore of lake ontario",
       meta_keywords    => "vacation, cottage, rental, beach, lake shore, ontario",
-      title            => "Brighton beach house vacation rental"
+      title            => ""
       );
+
+   $r->any( '/amenities' )->to(
+      template         => 'amenities',
+      meta_description => "amenities of the beach house",
+      meta_keywords    => "vacation, cottage, amenities",
+      title            => "Amenities"
+   );
+
+   $r->any( '/attractions' )->to(
+      template         => 'attractions',
+      meta_description => "local attractions near the beach house",
+      meta_keywords    => "local, vacation, cottage, attractions",
+      title            => "Local attractions"
+   );
 
    $r->any( '/gallery' )->to(
       template         => 'gallery',
