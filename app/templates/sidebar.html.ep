@@ -4,16 +4,17 @@
 
 <!-- map widget -->
                <address>
-                  <strong>Brighton Beach House</strong><br>
-                  46 somestreet<br>
+                  <strong>The Waves</strong><br>
+                  46 Greenway Circle<br>
                   Brighton, Ontario, Canada<br>
-                  H0H0H0<br>
                </address>
 
                <object data="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2869.595092762102!2d-77.7623105!3d44.009095699999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6728c048f5c41%3A0x8f177e4288bd94ab!2s46+Greenway+Cir%2C+Brighton%2C+ON+K0K!5e0!3m2!1sen!2sca!4v1409624080434"></object>
 <!-- end of map widget -->
+
                <h4></h4>
                <div class="hrline"> </div>
+
 <!-- weather widget -->
                <h4>Curent weather</h4>
                <object

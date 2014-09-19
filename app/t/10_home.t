@@ -7,16 +7,16 @@ $t->ua->max_redirects(1);
 
 $t->get_ok('/')
  ->status_is(200, 'Load /home' )
- ->text_is( 'html body div div div a', 'Brighton Beach House',
+ ->text_is( 'html body div div div a', 'The Waves Beach House',
     '/home First menu item' )
 
- ->content_like( qr/Lake Ontario waterfront/ms,
+ ->content_like( qr/A convenient location/ms,
     '/home features list')
 
- ->content_like( qr/Located on the north shore of Lake Ontario/ms, 
+ ->content_like( qr/of Lake Ontario/ms, 
     '/home local attractions list')
 
- ->content_like( qr/46 somestreet/ms, 
+ ->content_like( qr/46 Greenway/ms, 
     '/home address');
 
 done_testing();

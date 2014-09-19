@@ -36,7 +36,7 @@ sub startup
    $r->any( '/gallery' )->to(
       template         => 'gallery',
       images           => $config->{gallery},
-      meta_description => "brighton beach house gallery",
+      meta_description => "beach house gallery",
       meta_keywords    => "vacation, cottage, rental, gallery",
       title            => "Gallery"
    );

@@ -4,15 +4,8 @@
    %= include 'carousel'
 </div>
 
-<style>
-   .pretty-cursive
-   {
-      font-family: cursive, serif, sans-serif;
-   }
-</style>
-
 <div class="row">
-   <h1 class="text-center pretty-cursive">Welcome to Brighton Beach House</h1>
+   <h1 class="text-center pretty-cursive">Relax at The Waves</h1>
 </div>
 
 <div class="row">
