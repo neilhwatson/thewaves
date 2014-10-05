@@ -11,14 +11,6 @@ sub startup
 ## Routes
    my $r = $self->routes;
 
-   $r->any( '/' )->to(
-      template         => 'home',
-      images           => $config->{carousel},
-      meta_description => "vacation cottage rental on the shore of lake ontario",
-      meta_keywords    => "vacation, cottage, rental, beach, lake shore, ontario",
-      title            => ""
-      );
-
    $r->any( '/amenities' )->to(
       template         => 'amenities',
       meta_description => "amenities of the beach house",
@@ -33,13 +25,30 @@ sub startup
       title            => "Local attractions"
    );
 
-   $r->any( '/gallery' )->to(
+   $r->any( '/gallery/boardwalk' )->to(
       template         => 'gallery',
-      images           => $config->{gallery},
-      meta_description => "beach house gallery",
-      meta_keywords    => "vacation, cottage, rental, gallery",
-      title            => "Gallery"
+      images           => $config->{gallery_boardwalk},
+      meta_description => "Photos of the Presquile boardwalk trail",
+      meta_keywords    => "vacation, cottage, rental, gallery, nature, marsh, birding",
+      title            => "Presquile boardwalk trail"
    );
+
+   $r->any( '/' )->to(
+      template         => 'home',
+      images           => $config->{carousel},
+      meta_description => "vacation cottage rental on the shore of lake ontario",
+      meta_keywords    => "vacation, cottage, rental, beach, lake shore, ontario",
+      title            => ""
+      );
+
+   # a Catchall, make last
+   $r->any( '/*' )->to(
+      template         => 'home',
+      images           => $config->{carousel},
+      meta_description => "vacation cottage rental on the shore of lake ontario",
+      meta_keywords    => "vacation, cottage, rental, beach, lake shore, ontario",
+      title            => ""
+      );
 }
 
 1;
