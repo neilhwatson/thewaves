@@ -75,12 +75,12 @@
                <li class="dropdown">
                   <a class="dropdown-toggle" data-toggle="dropdown" href="#">Galleries</a>
                      <ul class="dropdown-menu">
+                        <li><a href="/gallery/house">The Waves Beach House</a></li>
                         <li><a href="/gallery/boardwalk">Presqu'ile boardwalk trail</a></li>
                      </ul>
                </li>
 
-               <li><a href="#contact">Contact</a></li>
-               <li><a href="#contact">Book now</a></li>
+               <li><a href="mailto:thewavesbeachhouse@gmail.com">Contact or book now</a></li>
             </ul>
          </div>  <!-- collapse -->
    </div>  <!-- container -->

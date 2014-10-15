@@ -33,6 +33,14 @@ sub startup
       title            => "Presquile boardwalk trail"
    );
 
+   $r->any( '/gallery/house' )->to(
+      template         => 'gallery',
+      images           => $config->{gallery_house},
+      meta_description => "Photos The Waves vaction rental",
+      meta_keywords    => "vacation, cottage, rental, gallery",
+      title            => "The Waves vacation house"
+   );
+
    $r->any( '/' )->to(
       template         => 'home',
       images           => $config->{carousel},
