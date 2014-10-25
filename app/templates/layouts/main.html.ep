@@ -11,10 +11,10 @@
     <meta name="description" content="<%= $meta_description %>">
     <meta name="keywords" lang="en" content="<%= $meta_keywords %>">
 
-    <title><%= title %></title>
+    <title>The Waves Beach House</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/bootstrap.css" type="text/css" rel="stylesheet">
 
    <!-- Bootstrap core JavaScript ============================= -->
 
@@ -40,7 +40,7 @@
    <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="/css/custom.css" rel="stylesheet">
+    <link href="/css/custom.css" type="text/css" rel="stylesheet">
     <style type="text/css" id="holderjs-style"></style>
 </head>
 

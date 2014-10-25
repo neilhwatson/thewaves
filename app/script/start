@@ -1,0 +1,5 @@
+#!/bin/bash 
+
+source ${HOME}/perl5/perlbrew/etc/bashrc
+cd ${HOME}/app
+hypnotoad CottageS.pl
