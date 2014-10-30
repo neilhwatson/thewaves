@@ -20,6 +20,7 @@
                <object
                   data="http://btn.weather.ca/weatherbuttons/template5.php?placeCode=CAON0087&category0=Cities&containerWidth=150&btnNo=&backgroundColor=blue&multipleCity=0&citySearch=0&celsiusF=C">
                </object>
+               <p>See <a href="http://weather.gc.ca/marine/forecast_e.html?mapID=11&siteID=08203">Lake Ontario marine forcast</a></p>
 <!-- end of weather widget -->
 
             </div> <!-- panel-body" -->
