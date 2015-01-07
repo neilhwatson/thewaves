@@ -11,6 +11,13 @@ sub startup
 ## Routes
    my $r = $self->routes;
 
+   $r->any( '/guestbook' )->to(
+      template         => 'guestbook',
+      meta_description => "guestbook for the beach house",
+      meta_keywords    => "vacation, cottage, guestbook, reviews",
+      title            => "Guestbook"
+   );
+
    $r->any( '/amenities' )->to(
       template         => 'amenities',
       meta_description => "amenities of the beach house",
