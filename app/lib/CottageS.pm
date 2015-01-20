@@ -48,6 +48,14 @@ sub startup
       title            => "The Waves vacation house"
    );
 
+   $r->any( '/gallery/winter' )->to(
+      template         => 'gallery',
+      images           => $config->{gallery_winter},
+      meta_description => "Photos The Waves vaction rental",
+      meta_keywords    => "vacation, cottage, rental, gallery",
+      title            => "The Waves vacation house"
+   );
+
    $r->any( '/' )->to(
       template         => 'home',
       images           => $config->{carousel},
