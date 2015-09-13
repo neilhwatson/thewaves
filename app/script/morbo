@@ -1,7 +1,7 @@
 #!/bin/bash
 
-source ~/perl5/perlbrew/etc/bashrc
+# source ~/perl5/perlbrew/etc/bashrc
 
 cd ..
-morbo CottageS.pl -v -l http://localhost:8081
+morbo CottageS.pl -v -l http://[::]:8081
 
