@@ -11,7 +11,7 @@ install:
 
 script:
    - cd app
-   - PERL5LIB=$PERL5LIB:. prove
+   - PERL5LIB=$PERL5LIB:./lib prove
 
 sudo: required
 
