@@ -1,0 +1,15 @@
+ - A convenient location on the shore of Lake Ontario, in the quiet town of Brighton Ontario, halfway between action-packed [Toronto](http://www.toronto.ca/) and historic [Kingston](https://www.cityofkingston.ca/) Ontario
+ - A private beach in your own back yard
+ - 2 bedroom, 2 bathroom, single story, sleeps 6
+ - 1 queen bed, 1 double bed, and 1 sofa bed
+ - 2 porches
+ - Southern exposure. Enjoy sunshine and lake breezes, from 2 back yard decks, with views of Lake Ontario and [Presqu'ile provincial park](http://www.ontarioparks.com/park/presquile)
+ - The large yard offers both sun and shade all day long.
+ - Barbecue
+ - Full kitchen including microwave and dishwasher!
+ - Parking for 3 cars
+ - TV, Blue-Ray player, and extensive movie library
+ - High speed Internet, with WiFi
+ - Cell phone service
+ - Pets welcome
+ - No smoking
