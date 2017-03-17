@@ -1,0 +1,244 @@
+<div class="row">
+   <div class="col-lg-7">
+
+       <h3>Guestbook</h3>
+   <!--
+      <blockquote>
+         <footer></footer>
+      </blockquote>
+
+   -->
+      <blockquote>
+         We really enjoyed our stay here in this beautiful relaxing cottage. I
+         feel it is more like home away from home. It was a wonderful way to
+         spend Christmas with your family. Thank you! We will certainly be
+         coming back.
+         <footer>Keith &amp; Brenda, London ON, December 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         Thank you very much for opening your home/cottage to us for the
+         weekend. We thoroughly enjoyed our stay here with our dear friends,
+         and every comfortable.
+         <footer>Elinor and Jay, Ottawa ON, November 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         Beautiful home in a lovely setting. Lovely welcoming feeling when we
+         walked in the door. Loved the view. Had a wonderful weekend with close
+         friends. Thank you!
+         <footer>Angela, Eady, and Michael, Hamilton ON, November 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         Thanks for another great stay!
+         <footer>Wendy &amp; Steve, Whitby ON, September 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         Thanks for a wonderful end of summer holiday! The beach house is
+         gorgeous! We love all the eclectic details and we're looking forward
+         to coming back soon.
+      </blockquote>
+
+      <blockquote>
+         After a week of calm &amp; relaxation, we're now ready to go back to work,
+         refreshed &amp; renewed.
+         <footer>Jo-Jo, Toronto ON, September 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         A wonderful week of relaxation! You have a gorgeous spot, a lovely and
+         well decorated cottage, and we loved every minute of our week here. We
+         shall surely return!
+      </blockquote>
+      <blockquote>
+         PS: We will also be HIGHLY recommending your little slice of heaven to
+         friends and family!
+         <footer>Marshall and Cherolyn, Guelph ON, Aug 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         What a wonderful place! The house is so cozy, the location is awesome
+         and our stay was wonderfully relaxing. Listening to the waves crashing
+         on the rocks while watching the stars, with a distant train horn
+         singing in the distance was one of those magic moments. Thank you for
+         your warm welcome, we certainly hope to come again for another
+         fantastic stay.
+
+         <footer>Beatrice, Eloi, Caroline, and Jean-Francios, Montreal QC, Aug
+         2016</footer>
+      </blockquote>
+
+      <blockquote>
+         We had a great stay. Very clean, lake was nice, and the cottage was
+         very comfortable. Loved it! Thank you for everything!
+
+         <footer>Dale, Pam, Natasha, and Alena, Brampton ON, July 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         We had a wonderful stay. Your place is welcoming, cozy, and
+         comfortable. We hope to come back again. Thank you for everything!
+
+         <footer>Andry, Nina, Raisa, Max, and Juliana, Montreal QC, July
+         2016</footer>
+      </blockquote>
+
+      <blockquote>
+         We had a very relaxing week by the lake. We loved all your decor and
+         are leaving with some inspiration. Thank you.
+
+         <footer>Christopher, Ber, Jay, Ciaran, Ronan, Ryan, and Tara, Oshawa
+         ON, July 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         We could totally get used to living her for a long long time :) Thank
+         you, Lisamarie for keeping such a wonderful place that has everything
+         kept with very find attention to detail and great taste. Will
+         recommend to friends :)
+
+         <footer>Bikram, Mississauga ON, June 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         Thank you for another wonderful weekend. Beautiful house, wonderful
+         weather, and priceless teim with my daughters.
+
+         <footer>Jane, Spencerville ON, June 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         Lovely Stay, thank you. Amazing View!
+
+         <footer>Kim, Kanata ON, May 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         We had such a s wonderful time hear for the May 24 weekend. The house
+         is beautiful and the views absolutely delightful. Thank you!
+
+         <footer>Liz, Toronto ON, May 2016</footer>
+      </blockquote>
+
+      <blockquote>
+         We had an amazing time here at the Waves. Thank you so much for having
+         us. We loved the house, the view, everything. We hope we can come
+         again in Summer
+         <footer>Samir and family, Pickering ON, May 2016 </footer>
+      </blockquote>
+
+      <blockquote>
+         Wonderful, peaceful, beautiful place. Enjoyed every minute of our
+         stay. Hopefully will be back.
+         <footer>Kam, Andrea, and Martina, Peterborough ON, Oct 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         What a serene peaceful stay! You are so fortunate to have this
+         cottage. Love all the difference spaces to relax and the decor is
+         perfect for a cottage. We would love to come back again sometime. My
+         girls would love it too. They are both teachers so maybe next summer!
+         <footer>Wendy, Steve, and Shea, Whitby ON, Sep 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         What a wonderful, wonderful week!!! The beautiful 'cottage' and the
+         great view... who could ask for more! Hopefully we will be back next
+         year.
+         <footer>Mary, Pickering ON, Aug 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         Wonderful, Perfect spot. Thoroughly enjoyable.
+         <footer>Kerry, Aug 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         Happy to be here!
+         <footer>Margo, Aug 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         Really enjoyed being here.
+         <footer>Dorothy, Aug 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         Had a great vacation. Thank you! Very relaxing. Aptly Named.
+         <footer>Brenda, Phil, and Oliver, Aug 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         Beautiful and relaxing stay! And what a beautiful little home!! We
+         hope to come back again :) Thank you.
+         <footer>Duane and Ale, Cambridge ON, July 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         My family and I spent a wonderful week at The Waves in Brighton. I would
+         recommend the cottage to anyone. It's only 90 min from Toronto to the
+         crystal clear waters of Lake Ontario. Kid friendly, dog friendly, two full
+         bathrooms, two indoor fireplaces, and just ten minutes to town.
+         <footer>Renée, Toronto ON, July 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         Lovely relaxing holiday. A real home away from home. We found it so well
+         equipped, nice and so homey. We really enjoyed the views. A beautiful
+         spot. If it were mine I think I would have to live there. We hope to
+         return some time in the future.
+      <footer>Pat from the U.K., June 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         My daughters and I spent a wonderful weekend at the beach house for a girls
+         weekend- it is more beautiful than the website pictures show - amazing views,
+         spotlessly clean, beautifully decorated with a calm restive theme, a large
+         kitchen where we prepared dinners together, and a lovely gas fireplace to take
+         the chill away in the evening. The trails in Presqu'ile Provincial park just a
+         couple of kms away helped us work up a healthy appetite and enjoy a cool drink
+         back at the beach house along the shore. The waves lulled us to sleep at night
+         in very comfortable beds.  My daughters plan on going back with friends and we
+         will definitely return for another girls weekend. A beautiful place for a
+         getaway!
+         <footer>Jane, Ashley, Stephanie and Julie, Spencerville ON, May 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         We spent a wonderful few days at The Waves Beach House. The cottage is
+         in a convenient location close to town but far away enough from all the
+         hustle and bustle. The access to a private beach in the backyard made
+         relaxing by the water a dream. The cottage fits the description
+         provided, had all the basic necessities needed and was beautifully
+         decorated and cozy to make our stay perfect. We will definitely come
+         back!                                                              
+         <footer>Ushani, Etobicoke Ontario, May 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         <p>My friend and I stayed here to get a break from work and city life
+         for the weekend. It was absolutely wonderful. The cottage was very
+         cozy and clean. We had everything we needed. The windows allowed for a
+         beautiful view of the water and plenty of sunlight. I would
+         highly recommend it to anyone seeking a reprieve from their
+         hectic life. Hopefully we will be back.</p>
+         <footer>Sheena, Ottawa Ontario, May 2015</footer>
+      </blockquote>
+
+      <blockquote>
+         <p>My fianc&amp;eacute; and I stayed here for New Years Eve. It was the perfect little
+         getaway spot. The fireplace and the crashing waves outside made it feel
+         so cozy. We loved all the windows looking out onto the water. The
+         cottage is very inviting and clean. We had everything we needed for the
+         night. We hope to be back to enjoy it again this summer. Highly
+         recommend.</p>
+         <footer>Becki, Ajax Ontario, December 2014</footer>
+      </blockquote>
+
+   </div><!-- /.col-lg-7 -->
+
+   %= include 'layout/sidebar.html'
+
+</div> <!-- row -->

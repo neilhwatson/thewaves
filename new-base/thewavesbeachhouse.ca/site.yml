@@ -32,7 +32,7 @@ site:
     args:
 
         # title: This is the title of the site, shown in the <title> tag
-        title: 'My Statocles Site'
+        title: 'The Wave Beachhouse'
 
         # base_url: This is the base URL the site will be deployed to. It
         # should be a full URL, and may contain a path, like:
@@ -48,8 +48,8 @@ site:
         apps:
 
             # blog: This is the blog app
-            blog:
-                $ref: 'blog_app'
+            #blog:
+            #$ref: 'blog_app'
 
             # page: This app turns any Markdown page into HTML
             page:
@@ -83,11 +83,11 @@ site:
         # Each nav consists of an array of links. See the Statocles::Link class
         # for a list of attributes and what they mean. The most important are
         # "text", the text of the link, and "href", the URL to link to.
-        nav:
-            main:
-                - text: 'Blog'
-                  href: '/blog'
-
+        #nav:
+        #    main:
+        #        - text: 'Blog'
+        #          href: '/blog'
+        
         # deploy: This is the deploy object, used to deploy this site.
         deploy:
             $ref: 'deploy'
@@ -136,11 +136,11 @@ page_app:
     class: 'Statocles::App::Basic'
     args:
         store: 'page'
-        url_root: '/page'
+        url_root: '/'
 
 # static_app: These are the settings for the static application.
 static_app:
     class: 'Statocles::App::Basic'
     args:
         store: 'static'
-        url_root: '/static'
+        url_root: '/'
