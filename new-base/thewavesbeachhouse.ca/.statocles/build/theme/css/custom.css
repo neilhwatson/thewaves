@@ -266,21 +266,6 @@ input[type="color"],
 
 .carousel-inner > .item > img { margin: 0 auto; }
 
-/*
-.carousel-inner {
-   margin-bottom: 50px;
-}
-
-.carousel-indicators {
-   bottom: -50px;
-}
-*/
-
 .carousel-control.right, .carousel-control.left {
    background-image: none;
-}
-
-.carousel img {
-   height: 480px !important;
-   width:  auto !important;
 }

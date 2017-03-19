@@ -3,18 +3,10 @@ title: The Wave vacation house
 template: gallery/index.html
 data:
   gallery:
-     - src: /images/house/house-view1.jpg
+     - src: /images/house/deck-view1.jpg
        caption: Lake Ontario from your back porch
-     - src: /images/house/house-view2.jpg
-       caption: Shoreline deck with afternoon shade
-     - src: /images/house/house-back-sw.jpg
-       caption: South west face
      - src: /images/house/garage1.jpg
        caption: Plenty of parking room
-     - src: /images/house/beach-west4.jpg
-       caption: Sunset from your beach
-     - src: /images/house/beach-west2.jpg
-       caption:  Sunset
      - src: /images/house/presquile-view1.jpg
        caption:  A view of Presquile at dawn
      - src: /images/house/livingroom1.jpg
@@ -23,11 +15,11 @@ data:
        caption: Family room with view of the Lake
      - src: /images/house/familyroom2.jpg
        caption: Fireplace and TV
-     - src: /images/house/kitchen1-800.jpg
+     - src: /images/house/kitchen1.jpg
        caption: Full kitchen with a dishwasher
-     - src: /images/house/kitchen2-800.jpg
+     - src: /images/house/kitchen2.jpg
        caption: Large fridge and counter space
-     - src: /images/house/sunroom1-800.jpg
+     - src: /images/house/sunroom1.jpg
        caption: Lake view from the three season room
      - src: /images/house/diningroom1.jpg
        caption: Dine with a sunset view of the lake
