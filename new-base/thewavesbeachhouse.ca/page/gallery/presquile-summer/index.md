@@ -6,7 +6,7 @@ data:
     - src: /images/presquile-summer/presquile-summer-shore3.jpg
       caption: Limestone mini-bluffs
     - src: /images/presquile-summer/presquile-summer-shore4.jpg
-      caption: Picnic grounds
+      caption: Picnic grounds shore
     - src: /images/presquile-summer/presquile-summer-trail1.jpg
       caption: Woodland trail near the picnic grounds
     - src: /images/presquile-summer/presquile-summer-shore1.jpg

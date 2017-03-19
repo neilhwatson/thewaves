@@ -7,5 +7,3 @@
 </div>
 
 %= markdown include 'amenities/index.md'
-
-
