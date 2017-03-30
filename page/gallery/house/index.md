@@ -1,5 +1,5 @@
 ---
-title: The Wave vacation house
+title: The Waves vacation house
 template: gallery/index.html
 data:
   gallery:
