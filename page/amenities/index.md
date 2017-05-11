@@ -4,7 +4,7 @@
        <h3>Where you will enjoy...</h3>
 
        <ul>
-<li>A convenient location on the shore of Lake Ontario, in the quiet town of Brighton Ontario, halfway between action-packed <a href="http://www.toronto.ca/">Toronto</a>) and historic <a href="https://www.cityofkingston.ca/">Kingsont</a> Ontario</li>
+<li>A convenient location on the shore of Lake Ontario, in the quiet town of Brighton Ontario, halfway between action-packed <a href="http://www.toronto.ca/">Toronto</a> and historic <a href="https://www.cityofkingston.ca/">Kingsont</a> Ontario</li>
 <li>A private beach in your own back yard</li>
 <li>2 bedroom, 2 bathroom, single story, sleeps 6</li>
 <li>1 queen bed, 1 double bed, and 1 sofa bed</li>
