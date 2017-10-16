@@ -1,10 +1,10 @@
 ---
-title: Presquile boardwalk trail
+title: Presqu'ile boardwalk trail
 template: gallery/index.html
 data:
   gallery:
     - src: /images/boardwalk/boardwalk5.jpg
-      caption: Presquile marsh
+      caption: Presqu'ile marsh
     - src: /images/boardwalk/boardwalk1.jpg
       caption: Marsh lookout
     - src: /images/boardwalk/boardwalk2.jpg

@@ -14,5 +14,3 @@ data:
     - src: /images/presquile-fall/presquile-fall-trees4.jpg
       caption: Maple by trail head parking
 ---
-
-
