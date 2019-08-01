@@ -3,12 +3,10 @@ title: The Waves vacation house
 template: gallery/index.html
 data:
   gallery:
-     - src: /images/house/deck-view1.jpg
-       caption: Lake Ontario from your back porch
-     - src: /images/house/garage1.jpg
-       caption: Plenty of parking room
      - src: /images/house/presquile-view1.jpg
        caption:  A view of Presquile at dawn
+     - src: /images/house/garage1.jpg
+       caption: Plenty of parking room
      - src: /images/house/livingroom1.jpg
        caption: Living room
      - src: /images/house/familyroom1.jpg

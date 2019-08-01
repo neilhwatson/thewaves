@@ -1,4 +1,4 @@
-Sitemap: http://thewavesbeachhouse.ca/sitemap.xml
+Sitemap: https://thewavesbeachhouse.ca/sitemap.xml
 User-Agent: *
 Disallow:
 
